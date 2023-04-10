@@ -1,0 +1,17 @@
+[
+ {
+    "address": "0xf977814e90da44bfa03b6295a0616a897441acec",
+    "blockchain": "binance, ethereum",
+    "name": "Binance 20, Binance 8"
+  },
+  {
+    "address": "0xbe0eb53f46cd790cd13851d5eff43d12404d33e8",
+    "blockchain": "binance, ethereum",
+    "name": "Binance 21, Binance 7"
+  },
+  {
+    "address": "0x5a52e96bacdabb82fd05763e25335261b270efcb",
+    "blockchain": "binance, ethereum",
+    "name": "Binance 22, Binance 36"
+  }
+]
