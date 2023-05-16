@@ -1,0 +1,7 @@
+1. Cex flow: (per day)
+Input: chain_name, contract_address of token, time_from, cex_list
+Output: time, in_amount, out_amount
+
+2. Dex volumn: (per 3 hours)
+Input: chain_name, contract_address of token, time_from
+Output: time, volumn
